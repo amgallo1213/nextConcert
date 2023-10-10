@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main} >
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.js</code>
+          AHHHHHHHHH!!!!!
         </p>
         <div className='Container'>
           <Button className="btn "variant="outline-danger" size="lg">HELP ME!</Button>
